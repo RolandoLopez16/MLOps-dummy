@@ -1,0 +1,9 @@
+{
+  "features": [
+    "ingreso_mensual",
+    "deuda_total",
+    "antiguedad_laboral_meses",
+    "num_creditos_activos",
+    "moras_ult_12m"
+  ]
+}

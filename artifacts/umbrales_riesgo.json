@@ -1,0 +1,9 @@
+{
+  "bajo_hasta": 0.3,
+  "medio_hasta": 0.6,
+  "etiquetas": {
+    "bajo": "Riesgo bajo",
+    "medio": "Riesgo medio",
+    "alto": "Riesgo alto"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "descripcion": "Dataset sintético BancoDeTodos — solo para aprendizaje.",
+  "columnas": {
+    "ingreso_mensual": "Ingreso mensual aproximado (moneda ficticia del ejercicio).",
+    "deuda_total": "Suma aproximada de deudas vigentes.",
+    "antiguedad_laboral_meses": "Meses en el empleo actual.",
+    "num_creditos_activos": "Cantidad de líneas de crédito activas.",
+    "moras_ult_12m": "Número de moras en los últimos 12 meses.",
+    "incumplimiento": "1 si el cliente incumple en el escenario simulado, 0 si no."
+  },
+  "semilla": 42,
+  "n_filas": 2500
+}

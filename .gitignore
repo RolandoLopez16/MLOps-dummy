@@ -1,0 +1,24 @@
+# Entornos virtuales (cada quien crea el suyo localmente)
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# IDE
+.idea/
+.vscode/
+
+# SO
+.DS_Store
+Thumbs.db
